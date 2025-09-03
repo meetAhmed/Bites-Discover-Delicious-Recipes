@@ -85,8 +85,6 @@
    ```
 4. Open in **Expo Go** or emulator
 
-Here’s how you can add a **video demo link** to your README using Google Drive:
-
 ---
 
 ## Demo Video
